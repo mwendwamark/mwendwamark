@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mark Mwendwa
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m a software developer 
+- 💞️ I’m looking to collaborate on React and Ruby on Rails projects.
 - 📫 How to reach me ...
+- Email: mwendwamark96@gmail.com
 
 <!---
 mwendwamark/mwendwamark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
