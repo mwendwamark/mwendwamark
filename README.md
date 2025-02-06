@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/mark-mwendwa-b09b78274](www.linkedin.com/in/mark-mwendwa-b09b78274)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via email: <i>mwendwamark96@gmail.com<i/></h3>
 <p align="left">
 </p>
 
