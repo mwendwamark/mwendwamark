@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Mwendwa</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya.</h3>
+<h3 align="center">A passionate fullstack developer from Nairobi, Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwendwamark&label=Profile%20views&color=0e75b6&style=flat" alt="mwendwamark" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Pytorch, looking forward to delve into Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://mark-nthei.vercel.app/](https://mark-nthei.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nthei.vercel.app/](https://nthei.vercel.app/)
 
 - 💬 Ask me about **React, Ruby on Rails**
 
