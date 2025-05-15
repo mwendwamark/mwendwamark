@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **mwendwamark96@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mark-mwendwa-b09b78274](www.linkedin.com/in/mark-mwendwa-b09b78274)
+- 📄 Know about my experiences [www.linkedin.com/in/mark-mwendwa-b09b78274](www.linkedin.com/in/markmwendwanthei
+
+)
 
 <h3 align="left">Connect with me via email: <i>mwendwamark96@gmail.com<i/></h3>
 <p align="left">
